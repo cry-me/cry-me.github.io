@@ -1,0 +1,13 @@
+.tiles {
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .tiles {
+    margin: 0 32px 0 32px;
+    justify-content: space-evenly;
+  }
+}

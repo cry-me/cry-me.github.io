@@ -1,0 +1,607 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/randall/Workspace/cry-me.github.io/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "updatedAt": 1517438733859,
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0ed03da577690b2fbf192662b74bfcfe",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "217cbc595ef2b276dc8b5ee0ed0e1e6a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "84336dfbceac3b59cf21db3599fc2f10",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "376434873b5b51caf26b04fc31af8643",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7de853f2563cd773fd5ba5f124444d18",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0ea4f22a9252db1048c18cb5763cef00",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a37b81fb9a06cf4697971d1a18e99f2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "82ea9713e1dd6ff02f31995271c88169",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fa12e3422bab221c879a94bffe6ed69b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-eslint": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-eslint",
+      "id": "Plugin gatsby-plugin-eslint",
+      "name": "gatsby-plugin-eslint",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-eslint",
+      "packageJson": {
+        "name": "gatsby-plugin-eslint",
+        "description": "Gatsby plugin to add eslint to hot develop stage",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": {
+          "name": "David Nguyen",
+          "email": "@emesde"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.7.1"
+          },
+          {
+            "name": "eslint-loader",
+            "version": "^1.9.0"
+          },
+          {
+            "name": "webpack",
+            "version": "^3.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f6b31aecaef5e7eb2abba61543eb24e7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/randall/Workspace/cry-me.github.io",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "640f735a3fd7564ba46bda0683ea8034",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "eslint-loader",
+            "version": "^1.9.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.36"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.15"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "react",
+            "version": "^15.6.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.7.0"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^15.1.0"
+          },
+          {
+            "name": "gatsby-plugin-eslint",
+            "version": "emesde/gatsby-plugin-eslint"
+          },
+          {
+            "name": "eslint-config-airbnb-base",
+            "version": "^12.0.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.7.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.0.2"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.3.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.6.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8ce48f550f8015a1371740487f7f7dc8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "cry.me"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-01-31T22:45:30.636Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "af4109927030d4397590c2da47a19bc0",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /design/": {
+      "path": "/design/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/design.jsx",
+      "componentChunkName": "component---src-pages-design-jsx",
+      "layout": "index",
+      "jsonName": "design.json",
+      "internalComponentName": "ComponentDesign",
+      "updatedAt": 1517438733866,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/design.jsx",
+      "id": "SitePage /design/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a9529e9354427e9969e214b11c9322e9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /illustration/": {
+      "path": "/illustration/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/illustration.jsx",
+      "componentChunkName": "component---src-pages-illustration-jsx",
+      "layout": "index",
+      "jsonName": "illustration.json",
+      "internalComponentName": "ComponentIllustration",
+      "updatedAt": 1517438733868,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/illustration.jsx",
+      "id": "SitePage /illustration/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6d235976b480283356001e44f29ea781",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "updatedAt": 1517438733868,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e840c9022edd7eb4f1b53903a2069cc1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /design/arch11a/": {
+      "path": "/design/arch11a/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/design/arch11a.jsx",
+      "componentChunkName": "component---src-pages-design-arch-11-a-jsx",
+      "layout": "index",
+      "jsonName": "design-arch-11-a.json",
+      "internalComponentName": "ComponentDesignArch11A",
+      "updatedAt": 1517438733871,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/design/arch11a.jsx",
+      "id": "SitePage /design/arch11a/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "796bd86135fc0080f57d6fa71e5edef6",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "51c605f48c1bc4a89b1244ab3af77320"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

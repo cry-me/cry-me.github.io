@@ -1,0 +1,30 @@
+{
+    "extends": "airbnb",
+
+    "env": {
+        "node": true,
+        "es6": true,
+    },
+
+    "rules": {
+    // import
+        "import/no-extraneous-dependencies": "off",
+
+    // react
+        "react/require-default-props": "off",
+        "react/self-closing-comp": "off",
+        "react/prop-types": "off",
+        "react/prefer-stateless-function": "off",
+
+    //jsx-a11y
+        "jsx-a11y/href-no-hash": "off",
+
+    //base
+        "quotes": "off",
+        "jsx-quotes": "off",
+        "arrow-body-style": "off",
+
+        "no-debugger": "off",
+    },
+
+}
