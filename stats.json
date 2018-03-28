@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-903259e71dd999f87296.js",
+      "component---src-layouts-index-jsx-903259e71dd999f87296.js.map"
+    ],
+    "path---design": [
+      "path---design-a0e39f21c11f6a62c5ab.js",
+      "path---design-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---design-arch-11-a": [
+      "path---design-arch-11-a-a0e39f21c11f6a62c5ab.js",
+      "path---design-arch-11-a-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-illustration-jsx": [
+      "component---src-pages-illustration-jsx-7b0e1d4ed55d1833dcb9.js",
+      "component---src-pages-illustration-jsx-7b0e1d4ed55d1833dcb9.js.map"
+    ],
+    "commons": [
+      "commons-68921807e74116dde0b4.js",
+      "build-js-styles.css",
+      "commons-68921807e74116dde0b4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-design-jsx": [
+      "component---src-pages-design-jsx-2745b16e0f78ef6886fc.js",
+      "component---src-pages-design-jsx-2745b16e0f78ef6886fc.js.map"
+    ],
+    "component---src-pages-design-arch-11-a-jsx": [
+      "component---src-pages-design-arch-11-a-jsx-458bf630761b2385d0b1.js",
+      "component---src-pages-design-arch-11-a-jsx-458bf630761b2385d0b1.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-359a61096cea75efe3ec.js",
+      "component---src-pages-index-jsx-359a61096cea75efe3ec.js.map"
+    ],
+    "path---illustration": [
+      "path---illustration-a0e39f21c11f6a62c5ab.js",
+      "path---illustration-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-c467064b613c86a702b4.js",
+      "build-js-styles.css",
+      "app-c467064b613c86a702b4.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
