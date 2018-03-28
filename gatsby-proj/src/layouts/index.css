@@ -40,6 +40,10 @@ a:hover {
   line-height: 2em;
 }
 
+.sidebar-item a {
+  padding: 0 .5em;
+}
+
 .logo {
   margin: 36px 0 0 48px;
   display: flex;

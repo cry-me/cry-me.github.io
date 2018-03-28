@@ -1,35 +1,25 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "component": "/Users/randall/Workspace/cry-me.github.io/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
-      "updatedAt": 1522210807359,
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/randall/Workspace/cry-me.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ce3c261b9550fa5d16b820ec53f91c7b",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -50,20 +40,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "217cbc595ef2b276dc8b5ee0ed0e1e6a",
+        "contentDigest": "5583acad8caab6637e26e06fc95e20fe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -84,20 +74,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "84336dfbceac3b59cf21db3599fc2f10",
+        "contentDigest": "01bc9284a4d4e4377e45c1dca4359875",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -114,20 +104,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "376434873b5b51caf26b04fc31af8643",
+        "contentDigest": "21052d60bb61030ac2051d44cdfb4c01",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -144,20 +134,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7de853f2563cd773fd5ba5f124444d18",
+        "contentDigest": "208c19958d6b54849a56ade855fdcae9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -174,20 +164,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0ea4f22a9252db1048c18cb5763cef00",
+        "contentDigest": "59f98c05a0997301b6c17093a97534c8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -204,20 +194,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1a37b81fb9a06cf4697971d1a18e99f2",
+        "contentDigest": "d431dbc6e1593e934992d4ff50ba99fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.6",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -257,20 +247,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "82ea9713e1dd6ff02f31995271c88169",
+        "contentDigest": "4a93f1d8d3d3dfb41e94e90c89a77ba8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.16",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -334,20 +324,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa12e3422bab221c879a94bffe6ed69b",
+        "contentDigest": "06565bd9dac1af4ea57b775bac706334",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-eslint": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-eslint",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-eslint",
       "id": "Plugin gatsby-plugin-eslint",
       "name": "gatsby-plugin-eslint",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/node_modules/gatsby-plugin-eslint",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/node_modules/gatsby-plugin-eslint",
       "packageJson": {
         "name": "gatsby-plugin-eslint",
         "description": "Gatsby plugin to add eslint to hot develop stage",
@@ -389,20 +379,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f6b31aecaef5e7eb2abba61543eb24e7",
+        "contentDigest": "d7c22e2457a57865e2d72511f1480794",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/randall/Workspace/cry-me.github.io",
+      "resolve": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "640f735a3fd7564ba46bda0683ea8034",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io",
+      "pluginFilepath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -484,7 +474,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8ce48f550f8015a1371740487f7f7dc8",
+        "contentDigest": "152ba19b253b3713729dae79fe0e53fe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -493,101 +483,99 @@
       "siteMetadata": {
         "title": "cry.me"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-03-28T04:20:03.412Z",
+      "buildTime": "2018-03-28T04:23:48.887Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9f2442c25db64f715289066d69c494c8",
+        "contentDigest": "88f19afaf8e7809a0a0ca714fa8bb54a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /design/": {
       "path": "/design/",
-      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/design.jsx",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design.jsx",
       "componentChunkName": "component---src-pages-design-jsx",
       "layout": "index",
       "jsonName": "design.json",
       "internalComponentName": "ComponentDesign",
-      "updatedAt": 1522210807368,
+      "updatedAt": 1522211031824,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/design.jsx",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design.jsx",
       "id": "SitePage /design/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9383e0b52259430f46deee92b535cfff",
+        "contentDigest": "360df700ad297c6aa6f28a896265e07e",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /illustration/": {
       "path": "/illustration/",
-      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/illustration.jsx",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/illustration.jsx",
       "componentChunkName": "component---src-pages-illustration-jsx",
       "layout": "index",
       "jsonName": "illustration.json",
       "internalComponentName": "ComponentIllustration",
-      "updatedAt": 1522210807369,
+      "updatedAt": 1522211031825,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/illustration.jsx",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/illustration.jsx",
       "id": "SitePage /illustration/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "46d9703eea67626fea4d69c8271df726",
+        "contentDigest": "ba2aabdee9881bd1da86daa2e9b14495",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /": {
       "path": "/",
-      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/index.jsx",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
-      "updatedAt": 1522210807369,
+      "updatedAt": 1522211031825,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/index.jsx",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fbb197fe6b4df5cf6f723c839c7cd506",
+        "contentDigest": "dcc183b090cd355a770c5d4c0e27ebdb",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /design/arch11a/": {
       "path": "/design/arch11a/",
-      "component": "/Users/randall/Workspace/cry-me.github.io/src/pages/design/arch11a.jsx",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/arch11a.jsx",
       "componentChunkName": "component---src-pages-design-arch-11-a-jsx",
       "layout": "index",
       "jsonName": "design-arch-11-a.json",
       "internalComponentName": "ComponentDesignArch11A",
-      "updatedAt": 1522210807373,
+      "updatedAt": 1522211031829,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/randall/Workspace/cry-me.github.io/src/pages/design/arch11a.jsx",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/arch11a.jsx",
       "id": "SitePage /design/arch11a/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b117cab129798c40d5fb02418f416aa6",
+        "contentDigest": "422b6e7882c23c69a7495622f9f69a87",
         "owner": "internal-data-bridge"
       }
     }
@@ -598,10 +586,6 @@
   },
   "componentDataDependencies": {
     "nodes": {},
-    "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ]
-    }
+    "connections": {}
   }
 }

@@ -1,0 +1,30 @@
+[
+    {
+        "componentChunkName": "component---src-pages-design-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "design.json",
+        "path": "/design/"
+    },
+    {
+        "componentChunkName": "component---src-pages-illustration-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "illustration.json",
+        "path": "/illustration/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-design-arch-11-a-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "design-arch-11-a.json",
+        "path": "/design/arch11a/"
+    }
+]
