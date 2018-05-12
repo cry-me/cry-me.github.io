@@ -1,0 +1,88 @@
+{
+  "assetsByChunkName": {
+    "path---design-growingonyoulamp": [
+      "path---design-growingonyoulamp-a0e39f21c11f6a62c5ab.js",
+      "path---design-growingonyoulamp-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-c9f627fcc4496f661004.js",
+      "component---src-pages-contact-jsx-c9f627fcc4496f661004.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-15c94059d573b7b972f5.js",
+      "component---src-layouts-index-jsx-15c94059d573b7b972f5.js.map"
+    ],
+    "component---src-pages-design-bart-jsx": [
+      "component---src-pages-design-bart-jsx-ab96afb37d65d1b73d15.js",
+      "component---src-pages-design-bart-jsx-ab96afb37d65d1b73d15.js.map"
+    ],
+    "path---design": [
+      "path---design-a0e39f21c11f6a62c5ab.js",
+      "path---design-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-design-sfplaza-jsx": [
+      "component---src-pages-design-sfplaza-jsx-f5939a285b95353707fe.js",
+      "component---src-pages-design-sfplaza-jsx-f5939a285b95353707fe.js.map"
+    ],
+    "path---design-arch-11-a": [
+      "path---design-arch-11-a-a0e39f21c11f6a62c5ab.js",
+      "path---design-arch-11-a-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---design-sfplaza": [
+      "path---design-sfplaza-a0e39f21c11f6a62c5ab.js",
+      "path---design-sfplaza-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-illustration-jsx": [
+      "component---src-pages-illustration-jsx-854a3e77bce488ebc5d7.js",
+      "component---src-pages-illustration-jsx-854a3e77bce488ebc5d7.js.map"
+    ],
+    "commons": [
+      "commons-02f24dcaf444eaa05bf3.js",
+      "build-js-styles.css",
+      "commons-02f24dcaf444eaa05bf3.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-design-jsx": [
+      "component---src-pages-design-jsx-d2b08796790796b6ab27.js",
+      "component---src-pages-design-jsx-d2b08796790796b6ab27.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-design-arch-11-a-jsx": [
+      "component---src-pages-design-arch-11-a-jsx-5eaee25541bb5ed5b981.js",
+      "component---src-pages-design-arch-11-a-jsx-5eaee25541bb5ed5b981.js.map"
+    ],
+    "path---design-bart": [
+      "path---design-bart-a0e39f21c11f6a62c5ab.js",
+      "path---design-bart-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-design-growingonyoulamp-jsx": [
+      "component---src-pages-design-growingonyoulamp-jsx-292d8cbecb3db9bfe377.js",
+      "component---src-pages-design-growingonyoulamp-jsx-292d8cbecb3db9bfe377.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-275fe0d56b7ee42a2910.js",
+      "component---src-pages-index-jsx-275fe0d56b7ee42a2910.js.map"
+    ],
+    "path---illustration": [
+      "path---illustration-a0e39f21c11f6a62c5ab.js",
+      "path---illustration-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-1c8f1b60dc98a9d13b16.js",
+      "build-js-styles.css",
+      "app-1c8f1b60dc98a9d13b16.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}

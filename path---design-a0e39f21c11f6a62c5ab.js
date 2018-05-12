@@ -1,0 +1,2 @@
+webpackJsonp([0x736221a5aede],{"./node_modules/json-loader/index.js!./.cache/json/design.json":function(e,n){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---design-a0e39f21c11f6a62c5ab.js.map

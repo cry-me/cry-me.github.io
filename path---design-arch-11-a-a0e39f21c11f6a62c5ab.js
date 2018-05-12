@@ -1,0 +1,2 @@
+webpackJsonp([0x800a5769334d],{"./node_modules/json-loader/index.js!./.cache/json/design-arch-11-a.json":function(n,o){n.exports={pathContext:{}}}});
+//# sourceMappingURL=path---design-arch-11-a-a0e39f21c11f6a62c5ab.js.map

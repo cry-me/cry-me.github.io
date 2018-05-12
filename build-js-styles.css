@@ -1,0 +1,2 @@
+.tile-image{width:200px;height:200px}@media (max-width:992px){.tile-image{width:140px;height:140px}}@media (max-width:768px){.tile-image{width:130px;height:130px}}.tiles{display:flex;justify-content:flex-start;align-content:center;flex-wrap:wrap;margin-left:-.5em}@media (max-width:768px){.tiles{margin:0 32px;justify-content:space-evenly}}
+/*# sourceMappingURL=build-js-styles.css.map*/
