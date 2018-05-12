@@ -6,49 +6,59 @@ const illustrations = [
   {
     pathPrefix: 'illustration',
     filename: 'concentration001',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
   {
     pathPrefix: 'illustration',
     filename: 'cryme_coffee_been_processx',
     filesuffix: '.png',
-    caption: 'Caption goes here',
+    caption: '',
+    fullSizeSuffix: '.png',
   },
   {
     pathPrefix: 'illustration',
     filename: 'darkroomcopy',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
   {
     pathPrefix: 'illustration',
     filename: 'figure',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
   {
     pathPrefix: 'illustration',
     filename: 'IMG_8533',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
   {
     pathPrefix: 'illustration',
     filename: 'japanesegirlsmall',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
   {
     pathPrefix: 'illustration',
     filename: 'templeroom',
-    filesuffix: '.jpg',
-    caption: 'Caption goes here',
+    filesuffix: '.png',
+    caption: '',
+    fullSizeSuffix: '.jpg',
   },
 ];
 
 const IllustrationPage = () => (
-  <Tiles projects={illustrations} />
+  <div>
+    <h2>Illustrations</h2>
+    <Tiles projects={illustrations} />
+  </div>
 );
 
 export default IllustrationPage;

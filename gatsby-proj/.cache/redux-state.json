@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "updatedAt": 1526091098115,
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "f0a9fd5c860265ba7112cf195fb16459",
         "owner": "internal-data-bridge"
       }
     },
@@ -483,15 +493,38 @@
       "siteMetadata": {
         "title": "cry.me"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-03-28T04:23:48.887Z",
+      "buildTime": "2018-05-12T02:11:34.689Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "88f19afaf8e7809a0a0ca714fa8bb54a",
+        "contentDigest": "7b70254ef7a57dc91dd9b5195fe2fe2b",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "path": "/contact/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/contact.jsx",
+      "componentChunkName": "component---src-pages-contact-jsx",
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "updatedAt": 1526091098121,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/contact.jsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e2825c2da00262cc4a7283c1867d4b73",
         "owner": "internal-data-bridge"
       }
     },
@@ -502,7 +535,7 @@
       "layout": "index",
       "jsonName": "design.json",
       "internalComponentName": "ComponentDesign",
-      "updatedAt": 1522211031824,
+      "updatedAt": 1526091098122,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -512,7 +545,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "360df700ad297c6aa6f28a896265e07e",
+        "contentDigest": "b668c3b787c2deb1b446838315f4e0d8",
         "owner": "internal-data-bridge"
       }
     },
@@ -523,7 +556,7 @@
       "layout": "index",
       "jsonName": "illustration.json",
       "internalComponentName": "ComponentIllustration",
-      "updatedAt": 1522211031825,
+      "updatedAt": 1526091098123,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -533,7 +566,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ba2aabdee9881bd1da86daa2e9b14495",
+        "contentDigest": "1cd4c51f1e7a366ef22fa84dc0d38a3d",
         "owner": "internal-data-bridge"
       }
     },
@@ -544,7 +577,7 @@
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
-      "updatedAt": 1522211031825,
+      "updatedAt": 1526091098124,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -554,7 +587,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dcc183b090cd355a770c5d4c0e27ebdb",
+        "contentDigest": "ac7850f192322b7739ee838868114568",
         "owner": "internal-data-bridge"
       }
     },
@@ -565,7 +598,7 @@
       "layout": "index",
       "jsonName": "design-arch-11-a.json",
       "internalComponentName": "ComponentDesignArch11A",
-      "updatedAt": 1522211031829,
+      "updatedAt": 1526091098132,
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
@@ -575,7 +608,70 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "422b6e7882c23c69a7495622f9f69a87",
+        "contentDigest": "5da3b647e6055c96d7ca1831ee09f4cc",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /design/bart/": {
+      "path": "/design/bart/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/bart.jsx",
+      "componentChunkName": "component---src-pages-design-bart-jsx",
+      "layout": "index",
+      "jsonName": "design-bart.json",
+      "internalComponentName": "ComponentDesignBart",
+      "updatedAt": 1526091098133,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/bart.jsx",
+      "id": "SitePage /design/bart/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "006573a38e6689bf1ec920c9a9463b2b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /design/growingonyoulamp/": {
+      "path": "/design/growingonyoulamp/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/growingonyoulamp.jsx",
+      "componentChunkName": "component---src-pages-design-growingonyoulamp-jsx",
+      "layout": "index",
+      "jsonName": "design-growingonyoulamp.json",
+      "internalComponentName": "ComponentDesignGrowingonyoulamp",
+      "updatedAt": 1526091098134,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/growingonyoulamp.jsx",
+      "id": "SitePage /design/growingonyoulamp/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "efc77840d13024cfad3df9e57652e718",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /design/sfplaza/": {
+      "path": "/design/sfplaza/",
+      "component": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/sfplaza.jsx",
+      "componentChunkName": "component---src-pages-design-sfplaza-jsx",
+      "layout": "index",
+      "jsonName": "design-sfplaza.json",
+      "internalComponentName": "ComponentDesignSfplaza",
+      "updatedAt": 1526091098135,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/randall/Workspace/cry-me.github.io/gatsby-proj/src/pages/design/sfplaza.jsx",
+      "id": "SitePage /design/sfplaza/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dc2623a512ab36ae861c3e3797b704a9",
         "owner": "internal-data-bridge"
       }
     }
@@ -586,6 +682,10 @@
   },
   "componentDataDependencies": {
     "nodes": {},
-    "connections": {}
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
   }
 }

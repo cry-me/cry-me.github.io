@@ -140,6 +140,18 @@ a:hover {
   left: 425px;
 }
 
+.plain-link {
+  text-transform: none;
+  color: blue;
+  padding: 0;
+}
+
+.plain-link:hover {
+  background: inherit;
+  color: blue;
+  text-decoration: underline;
+}
+
 @media (max-width: 1200px) {
   .checkerboard {
     display: none;

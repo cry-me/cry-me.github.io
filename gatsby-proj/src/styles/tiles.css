@@ -3,6 +3,7 @@
   justify-content: flex-start;
   align-content: center;
   flex-wrap: wrap;
+  margin-left: -.5em;
 }
 
 @media (max-width: 768px) {

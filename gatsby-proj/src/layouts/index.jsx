@@ -31,9 +31,6 @@ const Sidebar = () => (
       <li className="sidebar-item">
         <Link to="/illustration">Illustration</Link>
       </li>
-      <li className="sidebar-item">
-        <Link to="">Passion</Link>
-      </li>
     </ul>
     <div className="squiggly2"></div>
     <ul className="sidebar-section">
@@ -41,10 +38,7 @@ const Sidebar = () => (
         <a href="/resume.pdf">Resume</a>
       </li>
       <li className="sidebar-item">
-        <Link to="">About</Link>
-      </li>
-      <li className="sidebar-item">
-        <Link to="">Contact</Link>
+        <Link to="/contact">Contact</Link>
       </li>
     </ul>
   </nav>

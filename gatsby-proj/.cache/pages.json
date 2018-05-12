@@ -1,5 +1,19 @@
 [
     {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-contact-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "contact.json",
+        "path": "/contact/"
+    },
+    {
         "componentChunkName": "component---src-pages-design-jsx",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
@@ -26,5 +40,26 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "design-arch-11-a.json",
         "path": "/design/arch11a/"
+    },
+    {
+        "componentChunkName": "component---src-pages-design-bart-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "design-bart.json",
+        "path": "/design/bart/"
+    },
+    {
+        "componentChunkName": "component---src-pages-design-growingonyoulamp-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "design-growingonyoulamp.json",
+        "path": "/design/growingonyoulamp/"
+    },
+    {
+        "componentChunkName": "component---src-pages-design-sfplaza-jsx",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "design-sfplaza.json",
+        "path": "/design/sfplaza/"
     }
 ]
