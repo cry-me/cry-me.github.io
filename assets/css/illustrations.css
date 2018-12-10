@@ -24,7 +24,6 @@ body{
 	padding-top: 20%;
 	justify-content: flex-end;
 	align-items: center;
-
 }
 
 #logo{
@@ -137,13 +136,10 @@ body{
 	left: 50%;
 	z-index: 3;
 	transform: translate(-50%, -50%);
-	background-color: grey;
-	/* YOUR CODE HERE */
 	width: 450px;
 	max-width: 450px;
 	height: 100%;
-	object-fit: cover;
-	/*max-height: 450px;*/
+	object-fit: contain;
 	overflow: hidden;
 
 }

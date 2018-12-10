@@ -1,4 +1,8 @@
 $(document).ready(function() {
+	$(".img").hide();
+
+ 	$(".img").fadeIn(900);
+
 	const distanceToNextImage = -450;
 	let currentImageNumber = 0;
 

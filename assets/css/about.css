@@ -112,14 +112,31 @@ body{
 
 #currently{
 	font-family: 'Apercu-Bold';
-	font-size: 2em;
+	font-size: 3em;
 	color: #7996CD;
 }
 
 .description{
 	font-family: 'Apercu';
-	line-height: 1;
+	line-height: 1.2;
 	margin-bottom: 0;
+	margin-left: 5%;
 
 }
+b{
+	font-size:20px;
+}
+#watching{
+	color: #EF7D72;
+}
 
+#listening{
+	color:#68B0D8;
+}
+#exploring{
+	color: #7996CD;
+}
+
+#looking{
+	color:orange;
+}
