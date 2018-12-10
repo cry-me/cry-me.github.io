@@ -1,0 +1,206 @@
+@font-face {
+	src: url(fonts/Apercu/apercu_regular-webfont.ttf);
+	font-family: 'Apercu';
+}
+@font-face{
+	src: url(fonts/Apercu/Apercu-Bold.otf);
+	font-family: 'Apercu-Bold';
+}
+
+@font-face{
+	src: url(fonts/Apercu/Apercu-Light-Italic.otf);
+	font-family: 'Apercu-Light-Italic';
+}
+body{
+	display: flex;
+	flex-direction: row;
+}
+#title{
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	margin-left: -30%;
+	padding-top: 20%;
+	justify-content: flex-end;
+	align-items: center;
+
+}
+
+#logo{
+	width: 65px;
+	height: auto;
+	padding-left: -12%;
+	margin-right: 11px;
+	padding-top: 11%;
+}
+
+.text {
+	font-family: 'Apercu-Bold';
+	font-size: 1em;
+	line-height: 0.8;
+	color: #EF7D72;
+}
+.top{
+	font-size: 1.5em;
+
+}
+
+#left-container{
+	font-family: 'Apercu';
+	display: flex;
+	flex-direction: column;
+	width:20%;
+	padding-left: 10%;
+	align-items: center;
+}
+
+.link{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+	opacity: .75;
+}
+
+.top-nav{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.bottom-nav{
+	margin-top: 8%;
+}
+
+#blue{
+	font-family: 'Apercu-Light-Italic';
+	line-height: .5;
+	color: #113263;
+	opacity: .65;
+}
+
+.link:hover {
+	opacity: 1;
+}
+
+#blue:hover {
+	opacity: 1;
+}
+
+
+#ts,#bs {
+	margin:auto;
+	width: 100px;
+	padding: 20px;
+}
+
+@font-face {
+	src: url(fonts/Apercu/apercu_regular-webfont.ttf);
+	font-family: 'Apercu';
+}
+@font-face{
+	src: url(fonts/Apercu/Apercu-Bold.otf);
+	font-family: 'Apercu-Bold';
+}
+
+@font-face{
+	src: url(fonts/Apercu/Apercu-Light-Italic.otf);
+	font-family: 'Apercu-Light-Italic';
+}
+body{
+	display: flex;
+	flex-direction: row;
+}
+#title{
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	margin-left: -30%;
+	padding-top: 20%;
+	justify-content: flex-end;
+	align-items: center;
+
+}
+
+#logo{
+	width: 65px;
+	height: auto;
+	padding-left: -12%;
+	margin-right: 11px;
+	padding-top: 11%;
+}
+
+.text {
+	font-family: 'Apercu-Bold';
+	font-size: 1em;
+	line-height: 0.8;
+	color: #EF7D72;
+}
+.top{
+	font-size: 1.5em;
+
+}
+
+#left-container{
+	font-family: 'Apercu';
+	display: flex;
+	flex-direction: column;
+	width:20%;
+	padding-left: 10%;
+	align-items: center;
+}
+
+.link{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+	opacity: .75;
+}
+
+.top-nav{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.bottom-nav{
+	margin-top: 8%;
+}
+
+#blue{
+	font-family: 'Apercu-Light-Italic';
+	line-height: .5;
+	color: #113263;
+	opacity: .65;
+}
+
+.link:hover {
+	opacity: 1;
+}
+
+#blue:hover {
+	opacity: 1;
+}
+
+
+#ts,#bs {
+	margin:auto;
+	width: 100px;
+	padding: 20px;
+}
+
+
+.img-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
