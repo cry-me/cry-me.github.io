@@ -19,7 +19,6 @@ body{
 	position: relative;
 	display: flex;
 	flex-direction: row;
-	margin-left: -30%;
 	padding-top: 20%;
 	justify-content: flex-end;
 	align-items: center;
@@ -104,16 +103,12 @@ body{
 	width: 40%;
 	padding-left: 5%;
 	margin-top: 6%
-	/*margin-top: ;*/
-
 }
 
 #header-img-container{
 	position: relative;
 	display: flex;
 	flex-direction: row;
-	/*padding-top: 40%;*/
-
 }
 
 .header-img{

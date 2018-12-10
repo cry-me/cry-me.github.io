@@ -15,12 +15,10 @@ body{
 	display: flex;
 	flex-direction: row;
 }
-
 #title{
 	position: relative;
 	display: flex;
 	flex-direction: row;
-	margin-left: -30%;
 	padding-top: 20%;
 	justify-content: flex-end;
 	align-items: center;
@@ -35,18 +33,14 @@ body{
 	padding-top: 11%;
 }
 
-#text {
+.text {
 	font-family: 'Apercu-Bold';
-	font-size: 2.75em;
+	font-size: 1em;
 	line-height: 0.8;
 	color: #EF7D72;
 }
-
-#major {
-	font-family: 'Apercu';
-	color: orange;
-	text-align: center;
-	line-height: .95;
+.top{
+	font-size: 1.5em;
 
 }
 
@@ -103,23 +97,64 @@ body{
 	padding: 20px;
 }
 
-
-.right-container{
+#right-container{
+	display: flex;
+	flex-direction: column;
 	width: 50%;
-	margin-top: 10%;
-	margin-left: 2%;
+	padding-left: 5%;
+	margin-top: 6%
 }
 
-#currently{
-	font-family: 'Apercu-Bold';
-	font-size: 2em;
-	color: #7996CD;
+#header-img-container{
+	position: relative;
+	display: flex;
+	flex-direction: row;
+}
+
+.header-img{
+	display: flex;
+	margin:2%;
+	height: 120px;
+}
+
+@media screen and (max-width: 765px){
+	#header-img-container{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	}
 }
 
 .description{
 	font-family: 'Apercu';
-	line-height: 1;
-	margin-bottom: 0;
-
+	margin-top:-5px;
+}
+#abstract{
+	font-family: 'Apercu-Light-Italic';
 }
 
+#final-img-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	height: 0%;
+	margin-bottom: 6%;
+}
+
+.final-images{
+	padding: 1%;
+	height: 170px;
+}
+
+#check-container{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url(../img/checkerboard.svg);
+    background-repeat: repeat-y;
+    background-size: 81px;
+    background-position: 100%;
+    width: 100%;
+    height: 310%;
+    z-index: -1;
+   }
