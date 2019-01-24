@@ -7,7 +7,7 @@ $(document).ready(function() {
     adaptiveHeight: true;
     centerMode: true;
     variableWidth: true;
-  })
+  });
 
 	jQuery.fn.shake = function() {
     this.each(function (i) {
