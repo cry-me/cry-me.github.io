@@ -1,4 +1,13 @@
 $(document).ready(function() {
+  $('.img-container').slick({
+    dots: true;
+    infinite: true;
+    speed: 300;
+    slidesToShow: 1;
+    adaptiveHeight: true;
+    centerMode: true;
+    variableWidth: true;
+  })
 
 	jQuery.fn.shake = function() {
     this.each(function (i) {
@@ -7,13 +16,13 @@ $(document).ready(function() {
         });
         for (var x = 1; x <= 8; x++) {
             $(this).animate({
-                right: -25
+                right: -25;
             }, 10).animate({
-                right: 0
+                right: 0;
             }, 50).animate({
-                right: 25
+                right: 25;
             }, 10).animate({
-                right: 0
+                right: 0;
             }, 50);
         }
     });

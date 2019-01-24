@@ -148,7 +148,7 @@ body{
 	transition: 0.4s;
 	position: absolute;
 	left: 0;
-	display: flex;
+	display: none;
 }
 
 .carousel-section {
@@ -161,7 +161,7 @@ body{
 	width: 450px;
 }
 
-#left, #right {
+/*#left, #right {
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
@@ -199,7 +199,7 @@ body{
 	z-index: 2;
 	top: 0px;
 	left: 0px;
-}
+}*/
 
 body.noScroll {
 	overflow: hidden;

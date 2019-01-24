@@ -63,7 +63,7 @@ body{
 	justify-content: center;
 	padding: 5px;
 	text-decoration: none;
-	color: black;
+	color: #333333;
 	font-size: 16px;
 	opacity: .75;
 }
@@ -195,14 +195,40 @@ body{
 
 
 #check-container{
-    position: absolute;
+    position: fixed;
     top: 0px;
     left: 0px;
     background-image: url(../img/checkerboard.svg);
     background-repeat: repeat-y;
-    background-size: 81px;
     background-position: 100%;
     width: 100%;
     height: 100%;
     z-index: -1;
    }
+
+@media screen and (max-width: 765px){
+	#check-container{
+		display: none;
+	}
+	.top-row{
+		display: flex;
+		flex-direction: column;
+	}
+	#text {
+	font-family: 'Apercu-Bold';
+	font-size: 2em;
+	line-height: 0.8;
+	color: #EF7D72;
+	}
+
+
+	.bottom-row{
+		display: flex;
+		flex-direction: column;
+	}
+	#header-img-container{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	}
+}

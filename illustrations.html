@@ -2,8 +2,14 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="assets/css/illustrations.css">
-	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+	<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script> -->
 	<script type="text/javascript" src="assets/script/illustrations.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  	<script type="text/javascript" src="slick/slick.min.js"></script>
+
 	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon//favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon//favicon-16x16.png">
@@ -11,6 +17,7 @@
 	<link rel="mask-icon" href="assets/img/favicon//safari-pinned-tab.svg" color="#e47f7f">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
+
 </head>
 <body>
 	<title>illustrations</title>
@@ -32,7 +39,7 @@
        </div>
      <div class='mid-nav'>
      	<img id='bs'src="assets/img/bottom-squiggle.svg">
-       <a class='link'href="assets/img/resume_final.pdf">resume</a>
+       <a class='link'href="assets/img/resume_final.pdf" target="_blank">resume</a>
        <a class='link'href="about.html">about</a>
        </div>
        <div class='bottom-nav'>
@@ -46,19 +53,19 @@
 	</div>
 
 	<div class='img-container'>
-		<img class='img' id='0' src="assets/img/illustrations/01.jpg">
-		<img class='img'id='1'src="assets/img/illustrations/02.jpg">
-		<img class='img'id='2'src="assets/img/illustrations/03.jpg">
-		<img class='img'id='3'src="assets/img/illustrations/04.jpg">
-		<img class='img'id='4'src="assets/img/illustrations/05.jpg">
-		<img class='img'id='5'src="assets/img/illustrations/06.jpg">
-		<img class='img'id='6'src="assets/img/illustrations/07.png">
-		<img class='img'id='7'src="assets/img/illustrations/08.png">
+		<div><img class='img' id='0' src="assets/img/illustrations/01.jpg"></div>
+		<div><img class='img'id='1'src="assets/img/illustrations/02.jpg"></div>
+		<div><img class='img'id='2'src="assets/img/illustrations/03.jpg"></div>
+		<div><img class='img'id='3'src="assets/img/illustrations/04.jpg"></div>
+		<div><img class='img'id='4'src="assets/img/illustrations/05.jpg"></div>
+		<div><img class='img'id='5'src="assets/img/illustrations/06.jpg"></div>
+		<div><img class='img'id='6'src="assets/img/illustrations/07.png"></div>
+		<div><img class='img'id='7'src="assets/img/illustrations/08.png"></div>
 	</div>
 	<div id="lightbox">
 		<div id="overlay"></div>
-		<div id="close">X</div>
-		<div id="left"> &lt; </div>
+<!-- 		<div id="close">X</div> -->
+		<!-- <div id="left"> &lt; </div> -->
 		<div id="carousel-container">
 			<div id="carousel-strip">
 				<div class="carousel-section">
@@ -87,8 +94,9 @@
 				</div>
 			</div>
 		</div>
-		<div id="right"> &gt; </div>
+		<!-- <div id="right"> &gt; </div> -->
 	</div>
+	
 
 	<div id='check-container'></div>
 </body>
